@@ -1,6 +1,6 @@
 //tag.cpp
 //December 16th, 2021
-//Cody Hopkins
+//Cody
 // N W W to beat the game
 
 #include <iostream>
